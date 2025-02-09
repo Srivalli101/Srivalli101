@@ -53,11 +53,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=Srivalli101&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
-[![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravanTummalapalli&theme=radical)](https://github.com/SravanTummalapalli/github-readme-stats)
+[![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srivalli101&theme=radical)](https://github.com/SravanTummalapalli/github-readme-stats)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SravanTummalapalli&theme=highcontrast&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravanTummalapalli&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Srivalli101&theme=highcontrast&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivalli101&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ✍️ Random Dev Quote
